@@ -6,9 +6,9 @@
 h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-style: italic;
-  padding: 1rem;
+  padding: 2rem;
   color: #09e;
-  background: #1e1e1e;
+  background-color: #1e1e1e;
   border-radius: 5px;
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4);
   text-align: center;
